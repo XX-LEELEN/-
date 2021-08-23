@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎光临立林智能家居
 
 You can use the [editor on GitHub](https://github.com/XX-LEELEN/Smart-home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
